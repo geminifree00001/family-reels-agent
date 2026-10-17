@@ -1,4 +1,4 @@
-# 가족 릴스 수집 에이전트 v4
+# 가족 릴스 수집 에이전트 v5
 
 ## 목적
 인스타그램에서 해외 가족 관련 해프닝·감동·재미 영상을 찾아 정리한다.
@@ -8,6 +8,7 @@
 - 플랫폼: Instagram 릴스만 (video 타입)
 - 언어: 영어(해외 영상만) — 검색어는 영어로만 사용
 - 주제: 가족 해프닝 / 감동 / 재미
+- 키워드 체계 (v5, keywords.txt 참고): ① 가족/육아 유머(family humor, parenting fail, dad life, mom life, toddler chaos) ② 부부/커플 현실 공감(couple humor, marriage humor, married life) ③ 일상 POV/공감 상황극(POV family, relatable humor, wholesome) ④ 돌발 상황(kids being kids, caught on camera) ⑤ 감동/재회
 
 ## 순위 규칙
 1. 댓글 수 많은 순 (1순위)
